@@ -1,4 +1,4 @@
-# SAS {-}
+# SAS 
 SAS Institute biedt een professionele statistieksoftware programma aan dat veel gebruikt wordt in de biometrie, farmacie, klinisch onderzoek en in de banksector. 
 
 *Vergelijking* 

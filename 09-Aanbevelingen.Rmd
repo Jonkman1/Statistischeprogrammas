@@ -1,4 +1,4 @@
-# 9.	Aanbevelingen {-}
+# Aanbevelingen 
 -	Laat mensen werken met programma’s waar ze gewend aan zijn.   
 -	Sla tegelijkertijd nieuwe paden in en neem daar de tijd voor.   
 -	Maak er een gezamenlijk initiatief van met basiselementen en werk met verschillen.   

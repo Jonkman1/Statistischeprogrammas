@@ -1,4 +1,4 @@
-# 6.	Python {-}
+# Python
 Python is een volledig functioneel en open, programmeertaal die vanuit de computerwereld de afgelopen jaren een gelijkwaardig alternatief is geworden voor datawetenschappelijke projecten. Python is bijzonder geschikt voor de vakgebieden Deep Learning en Machine Learning, en gebruikt ook pakketten, die eenvoudig kunnen worden geïnstalleerd. Python is een veelgebruikte taal die ook wordt gebruikt bij webontwikkeling.
 
 *Vergelijking* 

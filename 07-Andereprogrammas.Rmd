@@ -1,4 +1,4 @@
-# 7.	Andere programma's {-}
+#	Andere programma's 
 De programma's hierboven zijn de onbetwiste marktleiders op het gebied van universeel toepasbare statistische programma's. Zij bestrijken een groot deel van het terrein. Daarnaast zijn er nog een aantal kleinere programma’s die wel de moeite waard zijn om te benoemen. Die hebben zich veelal gespecialiseerd in bepaalde methoen of bepaalde toepassingen. Hieronder noemen we er een aantal.   
 
 - *SPSS Amos*

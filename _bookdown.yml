@@ -1,5 +1,5 @@
 book_filename: "Statistischeprogrammas"
-chapter_name: "Chapter "
+chapter_name: "Hoofdstuk "
 repo: https://github.com/Jonkman1/Statistischeprogrammas
 output_dir: docs
 rmd_files: ["index.Rmd", "01-Inleiding.Rmd", "02-SPSS.Rmd", "03-STATA.Rmd", "04-SAS.Rmd", "05-R.Rmd", "06-Python.Rmd", "07-Andereprogrammas.Rmd", "08-Bigdata.Rmd","09-Aanbevelingen.Rmd"]

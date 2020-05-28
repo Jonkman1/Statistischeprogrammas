@@ -1,4 +1,4 @@
-# STATA {-}
+# STATA 
 
 STATA is een commercieel statistische softwareprogramma dat vooral in de wereld van economen en econometristen wordt gebruikt.
 

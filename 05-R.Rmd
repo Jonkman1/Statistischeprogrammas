@@ -1,4 +1,4 @@
-# R {-}
+# R 
 
 R is een populaire, open-source statistiekomgeving dat naar eigen voorkeur kan worden uitgebreid met pakketten. Dit kan de gebruiker zelf binnenhalen. R (de statistische motor) wordt vaak gebruikt met Rstudio (het dashboard), een comfortabele omgeving die lokaal of via een-server installatie gebruikt kan worden gebruikt. R-toepassingen kunnen ook direct en interactief op het web worden gebruikt (bv. RMarkdown en Shiny). Met R en zijn pakketten kan alles gedaan worden van binnenhalen en bewerken, naar visualiseren en modelleren (op allerlei manieren), naar communiceren.  
 

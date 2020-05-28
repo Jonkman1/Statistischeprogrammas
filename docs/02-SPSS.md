@@ -1,4 +1,4 @@
-# SPSS {-}
+# SPSS 
 
 SPSS is een bijzonder gebruiksvriendelijk en is een van de meest gebruikte statistische programma's. De van oorsprong onafhankelijke aanbieder is inmiddels overgenomen door IBM.
 
