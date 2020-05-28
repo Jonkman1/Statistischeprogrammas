@@ -1,3 +1,8 @@
-# Diving In
+# 9.	Aanbevelingen {-}
+-	Laat mensen werken met programma’s waar ze gewend aan zijn.   
+-	Sla tegelijkertijd nieuwe paden in en neem daar de tijd voor.   
+-	Maak er een gezamenlijk initiatief van met basiselementen en werk met verschillen.   
+-	Investeer in kennisontwikkeling en maak duidelijk hoe je dat doet.   
+-	Zoek samenwerking met onderzoeksinstituten die dit pad willen inslaan.   
+-	Definieer een voorbeeld project (een voorstel daarvoor heb ik ingediend).   
 
-Now let's talk details.
